@@ -25,6 +25,27 @@ This study aimed to geochemically characterize agricultural soils and irrigation
 - ArcGIS for spatial analysis and map generation.
 - Python for data processing and statistical analysis.
 
+## 🗺️ Map Previews
+
+Below are selected geochemical maps generated for the study area:
+
+<table>
+  <tr>
+    <td align="center"><img src="img/map_ph.png" width="200"/><br/>pH</td>
+    <td align="center"><img src="img/map_ec.png" width="200"/><br/>electrical conductivity</td>
+    <td align="center"><img src="img/map_n.png" width="200"/><br/>total nitrogen (n)</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="img/map_p.png" width="200"/><br/>phosphorus (p)</td>
+    <td align="center"><img src="img/map_k.png" width="200"/><br/>potassium (k)</td>
+    <td align="center"><img src="img/map_om.png" width="200"/><br/>organic matter (om)</td>
+  </tr>
+</table>
+
+### 🔍 Full-resolution maps
+
+Full-resolution PDF/PNG versions of each map are available in the [`/maps`](./maps) directory.
+
 ## 🧭 Study Area
 
 The study area is located in the Herrera township, La Chorrera district, Panama Oeste province. The region features a tropical savanna climate and Tertiary volcanic geology (basalts and andesites), which significantly influence soil nutrient dynamics.
