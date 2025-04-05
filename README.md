@@ -33,7 +33,7 @@ Below are selected geochemical maps generated for the study area:
 
 ### 🔍 Full-resolution maps
 
-Full-resolution PDF/PNG versions of each map are available in the [`/maps`](./maps) directory.
+Full-resolution PDF/PNG versions of each map are available in the [`/Maps`](./Maps) directory.
 
 ## 🧭 Study Area
 
