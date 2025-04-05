@@ -29,18 +29,7 @@ This study aimed to geochemically characterize agricultural soils and irrigation
 
 Below are selected geochemical maps generated for the study area:
 
-<table>
-  <tr>
-    <td align="center"><img src="img/map_ph.png" width="200"/><br/>pH</td>
-    <td align="center"><img src="img/map_ec.png" width="200"/><br/>electrical conductivity</td>
-    <td align="center"><img src="img/map_n.png" width="200"/><br/>total nitrogen (n)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/map_p.png" width="200"/><br/>phosphorus (p)</td>
-    <td align="center"><img src="img/map_k.png" width="200"/><br/>potassium (k)</td>
-    <td align="center"><img src="img/map_om.png" width="200"/><br/>organic matter (om)</td>
-  </tr>
-</table>
+![Map Preview](Thumbnail.png)
 
 ### 🔍 Full-resolution maps
 
