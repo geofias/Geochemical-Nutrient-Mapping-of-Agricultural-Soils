@@ -53,4 +53,4 @@ These geochemical nutrient maps are a valuable tool for precision agriculture, e
 
 If you use or reference this work, please cite the original publication:
 
-> Martínez, T.; Ríos, S. (2024). Geochemical Nutrient Mapping of Agricultural Soils in Herrera (Panama Oeste) as a Tool for Farmers and the Sustainable Use of Natural Resources. *Agriculture*, 15(7), 702. https://doi.org/10.3390/agriculture15070702
+> González-Valoys, A.C.; Chong, T.; Arrocha, J.; Lloyd, J.; Olmos, J.; Vergara, F.; Denvers, M.; Jaén, J.; Jiménez-Oyola, S.; García-Navarro, F.J. Geochemical Characterization of Soil and Water in an Agricultural Area for the Sustainable Use of Natural Resources. Agriculture 2025, 15, 702. https://doi.org/10.3390/agriculture15070702
